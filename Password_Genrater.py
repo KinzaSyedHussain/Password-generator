@@ -9,7 +9,7 @@ adjectives = ['sleepy', 'slow', 'smelly',
               'big', 'slim', 'pink']
 
 
-nouns = ['apple', 'dinosaur', 'Eman',
+nouns = ['apple', 'dinosaur', 'World',
          'toaster', 'goat', 'dragon',
          'hammer', 'duck', 'panda']
 
