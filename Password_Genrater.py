@@ -4,7 +4,7 @@ import string
 
 adjectives = ['sleepy', 'slow', 'smelly',
               'wet', 'fat', 'red',
-              'bad', 'good', 'mad',
+              'bad', 'good', 'fast',
               'tall', 'tiny', 'small',
               'big', 'slim', 'pink']
 
